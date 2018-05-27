@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98332819484",
+    "firebase_url": "https://notifycheezy1.firebaseio.com",
+    "project_id": "notifycheezy1",
+    "storage_bucket": "notifycheezy1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98332819484:android:dde83143cf9cf8a0",
+        "android_client_info": {
+          "package_name": "pushimage.notify.com.pushimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98332819484-argv54vhmi76nichnjok5dkl3dkcmqa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pushimage.notify.com.pushimage",
+            "certificate_hash": "fc08efcf2bc414ff89eadfc94a59f0b5cc89e820"
+          }
+        },
+        {
+          "client_id": "98332819484-83vi3plp1pv114hhd8djs28t51873dht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaF6RTgYADZcjg9TC8Z0BGxRyuOAnhRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98332819484-83vi3plp1pv114hhd8djs28t51873dht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
